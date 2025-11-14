@@ -1,22 +1,16 @@
 # 🐘 MuskPlays Spammer / Mammoth Extinction
 ### Because scammers shouldn’t get to have nice things
 
-We live in an era where some folks genuinely believe billionaires teamed up to create an online casino, and then act surprised when their life savings mysteriously evaporate into a crypto wallet registered in a country no one can point to on a map.  
+We live in an era where some folks genuinely believe billionaires teamed up to create an online casino, and then act surprised when their life savings mysteriously evaporate into a crypto wallet registered in a country no one can point to on a map.    
 
-Meanwhile, the phishing crews that operate these webites sit behind their dollar-store dashboards pretending to run a “customer support center,” sipping instant coffee and waiting for the next victim to stumble in.  
-
-This little script exists as a reminder that the internet is still a battlefield — and the scammers aren’t the only ones with scripts.
+This little script exists as a reminder that the internet is still a battlefield. But the scammers aren’t the only ones with scripts.
 
 ---
 
 ## 🚀 What This Thing Does
-This project is a fully asynchronous load-testing tool designed to stress test an HTTP endpoint with dynamic concurrency, adaptive throttling, and enough meme energy to break down poorly built scam panels.
+This project is a fully asynchronous tool designed to stress test an HTTP endpoint with dynamic concurrency, adaptive throttling, and enough power to entirely shut down poorly built scam panels.
 
-It sends repeated POST requests with configurable payloads, adjusts concurrency based on latency, tracks status codes, and generally behaves like a caffeinated raccoon hammering on a keyboard.
-
-Use it responsibly:  
-**Run it against your own systems, your own test environments, your own stink-bait honeypots.**  
-Don't point it at anything you don’t have permission to test unless you enjoy government-issued fashion.
+It sends repeated POST requests with configurable payloads, adjusts concurrency based on latency, tracks status codes.
 
 ---
 
