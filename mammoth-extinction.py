@@ -22,7 +22,7 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
 
-MAX_REQUESTS = 50000                # total requests to send
+MAX_REQUESTS = 5000000                # total requests to send
 INITIAL_CONCURRENCY = 1
 MAX_CONCURRENCY = 500
 MIN_CONCURRENCY = 1
