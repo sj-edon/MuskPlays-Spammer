@@ -1,4 +1,4 @@
-# 🐘 MuskPlays Spammer / Mammoth Extinction 
+# 🐘 MuskPlays Spammer / Mammoth Extinction
 ### Because scammers shouldn’t get to have nice things
 
 We live in an era where some folks genuinely believe billionaires teamed up to create an online casino, and then act surprised when their life savings mysteriously evaporate into a crypto wallet registered in a country no one can point to on a map.  
