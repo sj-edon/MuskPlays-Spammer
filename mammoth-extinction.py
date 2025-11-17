@@ -10,7 +10,7 @@ import sys
 from collections import defaultdict, deque
 
 # ================= CONFIG =================
-HOST = "https://muskplays.com" # INTERCHANGEABLE WITH trumpsino.com NO NEED TO CHANGE THE TOKEN
+HOST = "https://trumpsino.com" # muskplays.com was taken down around 11/17/25
 ENDPOINT = "/api/mammoth/chat"
 URL = HOST.rstrip("/") + ENDPOINT
 
