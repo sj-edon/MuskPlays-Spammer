@@ -1,3 +1,5 @@
+NOTE: 11/17/2025: MuskPlays.com has successfully been taken down by me and my peers. Big Thanks to CloudFlare for complying very fashionably. TrumpSino.com is still up - it is ran under the same servers so its the same exact process for creating a cookie and spamming.
+
 # 🐘 MuskPlays Spammer / Mammoth Extinction 
 ### Because scammers shouldn’t get to have nice things
 
